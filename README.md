@@ -5,3 +5,6 @@ CustomExpTable is a dll that you can compile to hook and change the EXP table fu
 ## Installation
 
 The dll has been compiled with use of [MaplePNP by Shavit](https://github.com/shavitush/MaplePnP) in mind. If you use the ijl15.dll and MaplePNP.dll from that project you can add this dll to your `plugins/` folder to enable the custom EXP table.
+
+## Download
+Download it from the release section on Github, or a direct link: https://github.com/PurpleMadness/CustomExpTable/releases/download/1.0.0/CustomExpTable.dll
